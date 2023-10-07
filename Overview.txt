@@ -1,0 +1,25 @@
+Group Details:
+    Members: Alex Hayman, Justin Richards, Tom Tovell, George Smith
+    Group Name: TOS.Dodgers 
+    Web Application: Subscription Sharer
+
+
+Git code for pushing updates:
+    1. git add "file name.type"
+    2. git commit -m "your message for the update"
+    3. git pushing
+    
+
+
+
+Sprint 1 Deliverables:
+    1. Overview of web application
+    2. Problem statement
+    3. Technical foundations
+        - github project repository created
+        - Task board created 
+        - Code of conduct defined 
+        - Personas for web application
+
+
+
