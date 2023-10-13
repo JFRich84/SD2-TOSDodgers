@@ -1,0 +1,60 @@
+Meeting Date: 13 October 2023
+
+Soft Deadline: 23 October 2023
+
+Hard Due Date: 2 November
+
+Deliverables:
+    1. 2 Personas
+    2. 2 User stories to match the personas done in sprint 1
+    3. Track user stories on Task Board
+    4. Wireframe for website
+    5. Flow chart or activity diagram for users
+    6. Additional diagrams:
+        - use case diagram
+        - state diagram
+        - sequence diagram
+        - customer journey diagram
+
+
+Assigned Duties:
+
+    1. Justin and Tom will work on the user stories and the flow charts 
+    for each users interaction with the web application.
+    Track the user stories on trello. 
+
+    2. George will work on the wireframe for the web application
+    There are 5 pages to start out with:
+        Home page > Login page > credentials page > add/modify/remove page > Logout page
+
+        Other potential pages include FAQ, Contact page, TOS (ironically)
+
+
+    3. Alex will do research on the other diagrams to include.
+    If any of these are necessary he will include them. 
+    He will also make sure trello and github are updated and all minutes are kept for meetings.
+
+
+Discussions from Meeting on 13 October 2023:
+
+    Wireframe is a black and white schematic of our website showing all pages and the layout of the pages
+
+    The modfiy/remove/add pages will all be separate pages and not inline popups for simplicity
+
+    Flow chart is a diagram showing the path a user takes in an application to complete a task. 
+
+    Upload the pdf from sprint 1 into our github repository
+
+    George is away from 29 October to 5 November
+
+    Have a version control with Overview file in repository (clarify with Justin on how to do this)
+
+
+
+
+
+
+
+
+    
+
