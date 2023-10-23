@@ -1,16 +1,38 @@
 Date: 16/10/2023
 Attendees: TT, GS, JR, AH
 
-Submission requirements for this Sprint:
-At least two personas (DONE ALREADY)
+Feedback from Lisa on Sprint 1:
+
+    1. Moreinfo is needed on the mechanism behind the web application.
+        - How do groups work?
+        - How do group permissions work? (who is admin and what are their functions?)
+        - How does a user access a group (through requests to admin?)
+        - How do users login details get stored?
+        - How are credentials for groups managed?
+
+    2. Focus on read only features for Sprint 3
+
+    3. Personas 
+        - Include statements from the users like "As a group member I would like the following features, 
+        functionality and layout..."
+        - Include examples of users requesting what they would like out of this web application.
+
+    4. Draw a sequence diagram for the admin of the group. 
+
+    5. Use case diagram is a summary of the rules of the system
+        - User rules
+        - Admin rules
+
+    
+To do for Sprint 2:
+
+    1. Finish flowchart (this is completed pending group review)
+    2. Expand on mechanism behind groups and group permissions (admins)
+    3. Finish persona and customer journey maps
+
 
 Minimum Viable Product 
-5-6 pages 123
+5-6 pages
 
-please dont
-
-
-
-this is a test
 
 
