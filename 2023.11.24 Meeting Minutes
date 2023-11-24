@@ -1,0 +1,23 @@
+Attendees: TT, JR, GS
+Apologies: AH
+
+Sprint 3 reqs:
+- Updated task board of user stories showing progress in the technical deliverables.
+Github repository showing work from all members of the team ie, regular commits from all team members.
+Implementation progress towards final version of application:
+Database design
+Database implementation with pre-filled data
+HTML pages generated from PUG templates, showing static content
+At least some dynamic content being pulled from your database to your templates via Pug, 
+ie the 'read only' features that were planned after sprint 2.
+
+What we need to do:
+- Upload PUG templates. Download, put in correct folder location and make sure
+that git is pointing to it. We need to use the most recent published version from Moodle.
+- Simple physical data model is complete. Changes updated based on testing of the sample data.
+We need to make some adjustments to the sample data to reflect. 
+- Dynamic code pulling from database to follow after the above steps are complete. 
+
+- We will regroup on Sunday PM (26/11). 
+- GS and RJ will upload PUG templates on Sunday to start the base planning. 
+- Delegating AH to start with the dynamic content from database via pug. 
